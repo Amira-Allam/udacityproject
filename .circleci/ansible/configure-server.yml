@@ -29,7 +29,7 @@
   roles:
     # Your code here
     - configure-serverexporter
-    - configure-prometheus-node
+    # configure-prometheus-node
 
 # ---
 
